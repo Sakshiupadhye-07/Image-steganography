@@ -74,25 +74,19 @@ After performing Step 1, run main.py file with the latest Python compiler (Pytho
 # Acknowledgement
 
 <p align=justify>
-It gives us immense pleasure to announce the completion of our project on <b>“An Enchanced Method for Information Hiding using Cryptography And Stenganography”</b> and we are pleased to acknowledge our indebtedness to all the persons who directly or indirectly contributed in the development of this work and who influenced our thinking, behavior and acts during the course of study. We are thankful to our <b><i>departmental Coordinator professor <a href="https://www.hetc.ac.in/faculty/dibyendu-samanta/">Mr. Dibyendu Samanta</a></i> (Assistant Professor and Coordinator, <a href="https://www.hetc.ac.in/">Hooghly Engineering and Technology College</a>)</b> who granted all the facilities of the college to us for the fulfilment of the project. We are thankful and express our sincere gratitude to our project guide <b><i>Mr. Dibyendu Samanta</i></b> who gave his/her valuable time to us for the sake of our project. He helped us each and every aspect of our project both academically and mentally. Finally, the team expressed their gratitude to our <b><i>respected Principal-In-Charge <a href="https://www.hetc.ac.in/faculty/smitadhi-ganguly/">Dr. Smitadhi Ganguly</a></i></b>. Without his support our project would not have seen the light of success.
-</p>
+It gives us immense pleasure to announce the completion of our project on <b>“An Enchanced Method for Information Hiding using Cryptography And Stenganography”</b> and we are pleased to acknowledge our indebtedness to all the persons who directly or indirectly contributed in the development of this work and who influenced our thinking, behavior and acts during the course of study. We are thankful to our <b><i>departmental Coordinator professor Mr. S.D.Rane Samanta</a></i> (Assistant Professor and Coordinator, <a href="https://www.dkte.ac.in/">DKTE College</a>)</b> who granted all the facilities of the college to us for the fulfilment of the project. 
 
-> [Arijit Roy](https://www.linkedin.com/in/mr-arijit-roy/), CSE Dept., 8<sup>th</sup> Semester<br>
-> University Roll No. – 17600118067<br>
-> Academic Year 2021-‘22<br>
+ [Sakshi Upadhye](https://www.linkedin.com/in/sakshi-upadhye-b535b2229/), CSE AI Dept., 6<sup>th</sup> Semester<br>
+> University Roll No. – 21UAI066<br>
+> Academic Year 2023-‘24<br>
 
-> [Arkadeep Roy](https://www.linkedin.com/in/royarkaofficial/), CSE Dept., 8<sup>th</sup> Semester<br>
-> University Roll No. – 17600118065<br>
-> Academic Year 2021-‘22<br>
+> [Ankita Tonape], CSE AI Dept., 6<sup>th</sup> Semester<br>
+> University Roll No. – 21UAI065<br>
+> Academic Year 2023-‘24<br>
 
-> [Arkadip Basu Mallick](https://www.linkedin.com/in/abasuofficial/), CSE Dept., 8<sup>th</sup> Semester<br>
-> University Roll No. – 17600118064<br>
-> Academic Year 2021-‘22<br>
-
-> [Shayani Das](https://www.linkedin.com/in/shayaniofficial/), CSE Dept., 8<sup>th</sup> Semester<br>
-> University Roll No. – 17600118029<br>
-> Academic Year 2021-‘22<br>
-
+> [Prerna Shnde], CSE AI Dept., 6<sup>th</sup> Semester<br>
+> University Roll No. – 21UAI060<br>
+> Academic Year 2023-‘24<br>
 # Abstract
 
 <p align="justify">
