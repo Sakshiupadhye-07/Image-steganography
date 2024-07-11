@@ -46,7 +46,7 @@ After performing Step 1, run main.py file with the latest Python compiler (Pytho
   7. Now can save the stego image by clicking on <b>Save Stego Image</b> button.<br>
   </p>
   
-  <img src="https://github.com/aroyofficial/incognitobit/blob/main/images/encryption.gif"></img>
+  <img src="https://github.com/Sakshiupadhye-07/Image-steganography/blob/master/images/encryption.gif"></img>
   <p align="center">(Guide) How to hide a message inside an image using IncognitoBit</p>
 
   <li><b>How to retrieve message from an image</b></li>
@@ -61,7 +61,7 @@ After performing Step 1, run main.py file with the latest Python compiler (Pytho
     6. If message retrieved successfully; then it can be saved into a text file by clicking on <b>Save Message</b> button.<br>
   </p>
   
-  <img src="https://github.com/aroyofficial/incognitobit/blob/main/images/decryption.gif"></img>
+  <img src="https://github.com/Sakshiupadhye-07/Image-steganography/blob/master/images/decryption.gif"></img>
   <p align="center">(Guide) How to retrieve message from an image using IncognitoBit</p>
   
   <li><b>Other functionalities</b></li>
